@@ -26,10 +26,8 @@ LLM Inference Engineer at **JD.com** · Building fast, efficient, production-gra
 
 ---
 
-### GitHub stats
+### Featured project
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yingxudeng&show_icons=true&hide_border=true)
-
----
+[![jd-opensource/xllm](https://img.shields.io/github/stars/jd-opensource/xllm?style=flat-square&label=jd-opensource%2Fxllm&color=blue)](https://github.com/jd-opensource/xllm)
 
 📫 yingxudeng@gmail.com

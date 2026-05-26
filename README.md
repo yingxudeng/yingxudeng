@@ -20,7 +20,7 @@ LLM Inference Engineer at **JD.com** · Building fast, efficient, production-gra
 |---|---|
 | **Languages** | C++, Python |
 | **Inference engine** | xLLM |
-| **Models** | DeepSeek-V3, Qwen3, LLaMA, MiniCPM-V |
+| **Models** | DeepSeek-V3, Qwen3 |
 | **Hardware** | NPU · CUDA |
 | **Domains** | LLM inference, distributed systems, async scheduling |
 

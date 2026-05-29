@@ -14,18 +14,6 @@ LLM Inference Engineer at **JD.com** · Building fast, efficient, production-gra
 
 ---
 
-### Tech stack
-
-| | |
-|---|---|
-| **Languages** | C++, Python |
-| **Inference engine** | xLLM |
-| **Models** | DeepSeek-V3, Qwen3 |
-| **Hardware** | NPU · CUDA |
-| **Domains** | LLM inference, distributed systems, async scheduling |
-
----
-
 ### Featured project
 
 [![jd-opensource/xllm](https://img.shields.io/github/stars/jd-opensource/xllm?style=flat-square&label=jd-opensource%2Fxllm&color=blue)](https://github.com/jd-opensource/xllm)
